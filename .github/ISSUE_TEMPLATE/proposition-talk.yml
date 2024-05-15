@@ -1,7 +1,5 @@
-blank_issues_enabled: false
----
 name: Proposition talk
-about: NantesJUG CFP
+description: NantesJUG CFP
 title: Soumission au CFP NantesJUG
 labels: new
 assignees: adrienpessu
