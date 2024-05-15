@@ -4,7 +4,7 @@ title: Soumission au CFP NantesJUG
 labels: new
 assignees: adrienpessu
 
-
+body:
 - type: checkboxes
   id: customer-criteria-1
   attributes:
